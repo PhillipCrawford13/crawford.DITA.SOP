@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_mj3_y43_qx">
+    <title>Cleaning and Maintaing the Machine </title>
+    <shortdesc>The most important part about having this machine is respecting it and maintaining it
+        for future use.  Everyone doing his or her part individually will make for a much more
+        enjoyable and responsible experience when using the ice cream machine.  Following some of
+        these simple tips will ensure we clean and maintain the machine properly.  </shortdesc>
+    <taskbody>
+        <context>Our ice cream machine is equipped with an automatic shutoff feature if the machine
+            begins to overheat.  If faced with this problem, remove the freezer bowl from the base
+            and clean the contents out before repeating a new cycle.  This is likely to occur if the
+            ice cream mixture attempting to be made is too thick for the mixing arm to succesfully
+            churn the ingredients inside. <p/></context>
+        <steps>
+            <step>
+                <cmd>Clean the freezer bowl, mixing arm and lid in warm soapy water.  The freezer
+                    bowl is not dishwasher safe!</cmd>
+            </step>
+            <step>
+                <cmd>Thoroughly dry compenents after each individual use.  The freezer bowl should
+                    not be placed in the freezer unless competely dry.</cmd>
+            </step>
+            <step>
+                <cmd>Only place the freezer bowl in the freezer! It is to be the only compenent to
+                    every be placed in the freezer for cooling.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

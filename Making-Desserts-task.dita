@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wjd_2n3_qx">
+    <title>Making Our Frozen Deserts</title>
+    <shortdesc>This section of the Standard Operating Procedure will tell us exactly how to
+        succesfully make our frozen treats.  Following these steps will ensure our frozen treats are
+        produced consistently and taste better than any other ice cream on campus.</shortdesc>
+    <taskbody>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Find Cuisinart recipes from online or use a recipe of your own.  If using a
+                    personal recipe make sure it yields 2 quarts or less to avoid overflow of the
+                    freezing bowl.</cmd>
+            </step>
+            <step>
+                <cmd>Remove the freezer bowl from the freezer at the end of the room and place it on
+                    the base.</cmd>
+            </step>
+            <step>
+                <cmd>Find the mixing arm and place it in the freezer bowl.  It will not fit tightly
+                    and will be placed in the center of the bowl with the circle side facing upward.
+                </cmd>
+            </step>
+            <step>
+                <cmd>Place the lid on the base and twist it clockwise to lock in place.  </cmd>
+            </step>
+            <step>
+                <cmd>Plug in the power chord.  If working properly, all buttons located on the
+                    control panel should be lit.  Now select which type of ice cream you'd prefer
+                    from the control panel.  A beep will automate from the machine indicating the
+                    process is ready to begin.</cmd>
+            </step>
+            <step>
+                <cmd>Select start and watch the freezer bowl begin to turn.  Once turning, add our
+                    ingredients throught the ingredient spout and place the measurement cup on the
+                    lid.  Your frozen delights will be ready in 15-40 minutes depending on the
+                    recupy and consitencey preference.  Keep and eye on your ice cream through the
+                    transparent lid to monitor the thickness of your ice cream.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
